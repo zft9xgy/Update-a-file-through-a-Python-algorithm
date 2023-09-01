@@ -1,6 +1,6 @@
 # Algorithm for file updates in Python
 
-Esto es parte de una actividad llevaba a cabo en el curso de [_Google Cybersecurity Professional Certificate_](https://www.coursera.org/professional-certificates/google-cybersecurity) y mas concretamente en el módulo de [_Automate Cybersecurity Tasks with Python_](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python?specialization=google-cybersecurity).
+This is part of an activity carried out in the [_Google Cybersecurity Professional Certificate_](https://www.coursera.org/professional-certificates/google-cybersecurity) course and more specifically in the [_Automate Cybersecurity Tasks with Python_](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python?specialization=google-cybersecurity) module.
 
 ## Scenario
 
